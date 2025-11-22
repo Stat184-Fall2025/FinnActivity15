@@ -1,0 +1,28 @@
+--- Activity 15 Plan ---
+
+- Part 1: Activity 14 Plan -
+Goal: Create a QMD file that contains visualizations and descriptions for the work done with activities 4, 8, 10, and 13 and the Armed Forces Data and Baby Names data.
+Needs: Armed Forces Data, Baby Names Data, tidyverse, ggplot2, dcData, knitr, esquisse, dplyr, YAML header
+Plan:
+1) Create file
+2) Load packages
+3) Write YAML header
+4) Create a section for each data set and visualization
+5) Create text and captions for each of the visualizations
+6) Add alt text for each visualization
+7) Add code to appedix
+8) Publish to PDF
+
+- Part 2: Repository Plan -
+Goal: Create a repository for activity 15 that incorporates activity 14, using issues, commits, and branches to show knowledge of GitHub.
+Needs: Activity 14 QMD and PDF, data, GitHub, issues, commits, README
+Plan:
+1) Create repository
+2) Create README and update text
+3) Upload Activity 14 QMD and PDFs
+4) Create plan file
+5) Commit changes
+6) Create issues
+7) Create branches and fix issues
+8) Create pull requests
+9) Close any fixed issues
